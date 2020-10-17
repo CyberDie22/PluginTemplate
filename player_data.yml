@@ -1,0 +1,7 @@
+# TemplatePlugin for Craftbukkit / Spigot
+# Author: CyberDie22
+
+# FILE: player_data.yml
+# These are the stats for players that have joined your server
+
+players:

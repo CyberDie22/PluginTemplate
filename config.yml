@@ -1,0 +1,11 @@
+# TemplatePlugin for Craftbukkit / Spigot
+# Author: CyberDie22
+
+# FILE: config.yml
+# These are the settings for TemplatePlugin. Change whatever you like but do not remove any
+# non-comment lines, as this will result in errors.
+
+plugin-prefix: "&c&l[&5&lTemplatePlugin&c&l] &8&l"
+
+# Enables the custom player stats
+custom-player-stats: true
